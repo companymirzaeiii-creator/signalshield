@@ -1,0 +1,13 @@
+services:
+  falkordb:
+    image: falkordb/falkordb:latest
+    environment:
+      REDIS_ARGS: --appendonly yes
+    ports:
+      - "6380:6379"
+      - "3001:3000"
+    volumes:
+      - signalshield-falkor:/var/lib/falkordb/data
+
+volumes:
+  signalshield-falkor:

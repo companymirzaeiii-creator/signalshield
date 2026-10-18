@@ -1,0 +1,12 @@
+{
+  "id": "portfolio-demo-global-core",
+  "name": "Global Core - illustrative portfolio",
+  "owner_type": "demo only",
+  "disclaimer": "Illustrative holdings only. This is not a real client account, investment recommendation, or suitability assessment.",
+  "positions": [
+    {"ticker": "AAPL", "allocation_pct": 18.0, "market_value_usd": 18000, "risk_tier": "core"},
+    {"ticker": "MSFT", "allocation_pct": 14.0, "market_value_usd": 14000, "risk_tier": "core"},
+    {"ticker": "NVDA", "allocation_pct": 12.0, "market_value_usd": 12000, "risk_tier": "growth"},
+    {"ticker": "TSLA", "allocation_pct": 6.0, "market_value_usd": 6000, "risk_tier": "satellite"}
+  ]
+}

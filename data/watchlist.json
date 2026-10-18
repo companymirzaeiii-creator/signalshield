@@ -1,0 +1,6 @@
+[
+  {"ticker": "AAPL", "name": "Apple Inc.", "cik": "0000320193", "sector": "Technology"},
+  {"ticker": "MSFT", "name": "Microsoft Corporation", "cik": "0000789019", "sector": "Technology"},
+  {"ticker": "NVDA", "name": "NVIDIA Corporation", "cik": "0001045810", "sector": "Semiconductors"},
+  {"ticker": "TSLA", "name": "Tesla, Inc.", "cik": "0001318605", "sector": "Automotive"}
+]

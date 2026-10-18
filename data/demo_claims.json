@@ -1,0 +1,44 @@
+[
+  {
+    "id": "claim-demo-001",
+    "text": "AAPL will definitely rise 30% next month because a major contract is guaranteed. Buy before Friday.",
+    "source_type": "illustrative demo claim",
+    "published_at": "2026-10-17T09:15:00Z",
+    "author": "Example channel"
+  },
+  {
+    "id": "claim-demo-002",
+    "text": "NVDA earnings will beat expectations. The latest filing is proof, so there is no downside risk.",
+    "source_type": "illustrative demo claim",
+    "published_at": "2026-10-17T11:00:00Z",
+    "author": "Example channel"
+  },
+  {
+    "id": "claim-demo-003",
+    "text": "MSFT will definitely gain 25% after its next results. Buy today before institutions move.",
+    "source_type": "illustrative demo claim",
+    "published_at": "2026-10-17T12:30:00Z",
+    "author": "Example channel"
+  },
+  {
+    "id": "claim-demo-004",
+    "text": "NVDA and TSLA will certainly outperform this quarter because demand is guaranteed.",
+    "source_type": "illustrative demo claim",
+    "published_at": "2026-10-17T14:00:00Z",
+    "author": "Example channel"
+  },
+  {
+    "id": "claim-demo-005",
+    "text": "AAPL and MSFT are a risk-free pair. Buy before Friday for a guaranteed return.",
+    "source_type": "illustrative demo claim",
+    "published_at": "2026-10-17T15:30:00Z",
+    "author": "Example channel"
+  },
+  {
+    "id": "claim-demo-006",
+    "text": "The latest NVDA filing confirms imminent record sales, according to an investor channel.",
+    "source_type": "illustrative demo claim",
+    "published_at": "2026-10-17T16:45:00Z",
+    "author": "Example channel"
+  }
+]
