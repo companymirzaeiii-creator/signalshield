@@ -283,3 +283,7 @@ signalshield/
 - [SEC EDGAR API overview](https://www.sec.gov/file/api-overview)
 - [SEC investor alert on online investment offers](https://www.sec.gov/files/investor/alerts/ia_endorsement.htm)
 - [FalkorDB Browser](https://github.com/FalkorDB/falkordb-browser)
+
+## Development disclosure
+
+AI coding assistance was used during development. The submitter reviewed the graph model, implemented and verified the project workflow, tested the FalkorDB queries and local setup, and recorded the demo.
